@@ -1,3 +1,5 @@
+Added in reminders for what I changed on my install.  I may change the script for this if I have time.
+
 # RetroPie Moonlight #
 This is a set of scripts with the intent of helping people stream games from their PC to their RetroPie. These scripts use [Moonlight](http://moonlight-stream.com/) to query your PC for your available games and generates a "Console" within RetroPi along with a set of "Roms" representing your games. Each rom is actually a shell script configured to tell moonlight to begin streaming the game of your choice.
 ![alt text](https://github.com/joelghill/retromoonlight/blob/master/Images/moonlight_gameslist.png "Moonlight game collection in Eudora theme")
