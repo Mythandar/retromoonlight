@@ -1,0 +1,5 @@
+Will make changes to moonlight so it'll have multiple options for playnite
+
+moonlight stream -1080 -app "Playnite"
+moonlight stream -1080 -fps 30 -app "Playnite"
+moonlight stream -720 -app "Playnite"
